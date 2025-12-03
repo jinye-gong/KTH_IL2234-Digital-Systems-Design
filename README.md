@@ -235,5 +235,5 @@ Please do **not** use this repository for plagiarism, and do **not** redistribut
 
 ## 使用说明与学术诚信
 
-- 本仓库仅用于 IL2234 课程学习与作业展示，**不适合作为“拷答案”模板**。
+- 本仓库仅用于 IL2234 课程学习与作业展示。
 - 请遵守 KTH 的学术诚信政策，不要将本仓库内容用于任何形式的抄袭或违规共享。
